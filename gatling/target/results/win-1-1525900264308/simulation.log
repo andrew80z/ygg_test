@@ -1,0 +1,46 @@
+yggtest.win_1	win-1	RUN	1525900264308	 	2.0
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	USER	START	1525900264331	0
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_10	1525900264362	1525900264513	1525900264672	1525900264673	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900264769	1525900264770	1525900264825	1525900264826	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900264836	1525900264837	1525900264901	1525900264902	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900264908	1525900264908	1525900264960	1525900264961	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900264970	1525900264971	1525900265024	1525900265025	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900265027	1525900265028	1525900265078	1525900265078	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900265083	1525900265084	1525900265136	1525900265137	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900265144	1525900265145	1525900265196	1525900265197	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900265200	1525900265201	1525900265250	1525900265251	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900265258	1525900265259	1525900265310	1525900265310	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900265314	1525900265315	1525900265363	1525900265363	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		Request_11	1525900265369	1525900265370	1525900265419	1525900265420	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	REQUEST		second play request	1525900265428	1525900265429	1525900265481	1525900265482	OK	 
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	7544879701795293828-0	USER	END	1525900264331	1525900265496

@@ -1,0 +1,7 @@
+yggtest.win_1	win-1	RUN	1525899362092	 	2.0
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	4470871669530969526-0	USER	START	1525899362115	0
+Send auth request and get session ID
+Send play request and repeat if status is Finished
+Send play request with wager ID	4470871669530969526-0	USER	END	1525899362115	1525899362135
